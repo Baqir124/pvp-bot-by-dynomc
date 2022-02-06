@@ -1,0 +1,17 @@
+{
+  "name": "pvpbot_by_DynoMC",
+  "version": "1.0.0",
+  "description": "bot created by anushkDEV aka DynoMC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AnushkDEV",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.15.0",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-pathfinder": "^1.9.1",
+    "mineflayer-pvp": "^1.0.2"
+  }
+}
