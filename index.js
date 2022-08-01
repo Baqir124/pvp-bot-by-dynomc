@@ -4,9 +4,9 @@ const { pathfinder, Movements, goals} = require('mineflayer-pathfinder')
 const armorManager = require('mineflayer-armor-manager')
  
 const bot = mineflayer.createBot({
-    host: process.argv[2] || 'localhost',
-    port: process.argv[3] || 56406,
-    username: process.argv[4] || 'nameofurchoice',
+    host: process.argv[2] || 'DarkLimbo06.aternos.me',
+    port: process.argv[3] || 15727,
+    username: process.argv[4] || 'LimboAltNob'
     logErrors: false
 })
  
